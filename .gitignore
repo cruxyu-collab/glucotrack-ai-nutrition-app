@@ -1,0 +1,50 @@
+# 依存関係ライブラリ
+node_modules/
+
+# Expo ビルド・キャッシュ
+.expo/
+dist/
+web-build/
+expo-env.d.ts
+
+# ネイティブビルド・証明書・鍵ファイル
+.kotlin/
+*.orig.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+
+# Metro バンドラー
+.metro-health-check*
+
+# デバッグログ
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+
+# OS生成ファイル・一時ファイル
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.pem
+~$*
+
+# 環境変数・認証情報（セキュリティ保護）
+.env
+.env.*
+.env*.local
+!.env.example
+
+# ローカル検証用 SQLite データベース
+*.db
+*.sqlite
+*.sqlite3
+
+# TypeScript ビルド情報
+*.tsbuildinfo
+
+# ネイティブ生成ディレクトリ
+/ios
+/android
