@@ -39,3 +39,11 @@ iPhone 16eの高画素生画像をそのまま送信せず、`expo-image-manipul
 - **生化学的矛盾検知**: 「糖類 > 炭水化物」などの論理破綻を検知して警告を発火。
 - **高糖類注意アラート**: 急激な食後高血糖リスクに配慮した注意喚起。
 - **データ完全性の保証**: 不明項目を勝手に「0」と捏造せず、`null` および `UNVERIFIED` として管理。
+
+---
+
+## 📚 技術詳細ドキュメント
+
+- 📐 **[アーキテクチャ設計決定記録 (docs/ja/DECISIONS.md)](docs/ja/DECISIONS.md)**
+- 📈 **[プロジェクト進捗実績報告書 (docs/ja/PROJECT_STATUS.md)](docs/ja/PROJECT_STATUS.md)**
+- 🤝 **[システム運用・引き継ぎ情報 (docs/ja/HANDOFF.md)](docs/ja/HANDOFF.md)**
