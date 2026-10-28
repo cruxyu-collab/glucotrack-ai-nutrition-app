@@ -179,7 +179,7 @@ def create_deck():
     add_header(s3, "システムアーキテクチャ: Local-First × On-Demand AI")
 
     layers = [
-        ("1. クライアント層 (Client)", "• UI / UX Layer\n  - React Native (Expo SDK 57)\n  - TypeScript 型安全設計\n  - 3x3 栄養素マトリックス表示\n  - ドットカレンダー状態可視化\n\n• Internationalization\n  - i18next (日韓リソース完全分離)\n  - 実行時即時言語トグル", Inches(0.8)),
+        ("1. クライアント層 (Client)", "• UI / UX Layer\n  - React Native (Expo SDK 58)\n  - TypeScript 型安全設計\n  - 3x3 栄養素マトリックス表示\n  - ドットカレンダー状態可視化\n\n• Internationalization\n  - i18next (日韓リソース完全分離)\n  - 実行時即時言語トグル", Inches(0.8)),
         ("2. 安全検証・データ層 (Local)", "• Validation Layer\n  - nutritionValidator.ts\n  - 非食品ガードレール (isFood)\n  - 生化学的矛盾検知 (糖質>炭水化物)\n  - 血糖スパイク注意アラート\n\n• Local Database\n  - expo-sqlite (SQLite 3)\n  - iOS Data Protection 準拠\n  - 3段階データ完全性(null保護)\n  - CSVエクスポートエンジン", Inches(4.8)),
         ("3. AI推論層 (On-Demand)", "• Image Preprocessing\n  - expo-image-manipulator\n  - 端末側 800px リサイズ処理\n  - ペイロード95%削減\n\n• Multimodal AI API\n  - Google Gemini API\n  - 主系: gemini-3.8-flash\n  - 縮退: gemini-flash-latest\n  - リトライ待機なし即時切替\n  - responseMimeType: 'application/json'", Inches(8.9))
     ]

@@ -3,7 +3,7 @@
 ## 1. 프로젝트 개요
 - **저장소명**: `02_glucotrack-ai-nutrition-app`
 - **목적**: 2형 당뇨 환자 맞춤형 9대 영양소 추적 iOS 모바일 앱
-- **개발 환경**: Windows PC (Mac 미보유, Expo SDK 57 / React Native TypeScript)
+- **개발 환경**: Windows PC (Mac 미보유, Expo SDK 58 / React Native TypeScript)
 - **동작 검증 기기**: iPhone 16e (실기기 검증 완료)
 
 ---

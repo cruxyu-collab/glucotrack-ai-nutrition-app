@@ -3,7 +3,7 @@
 ## 1. 기본 정보
 - **앱 이름**: GlucoTrack (2형 당뇨 관리 9대 영양소 추적 iOS 앱)
 - **검증 기기**: iPhone 16e (실기기 검증 완료)
-- **개발 환경**: Windows PC (Mac 미보유, Expo SDK 57 / React Native TypeScript)
+- **개발 환경**: Windows PC (Mac 미보유, Expo SDK 58 / React Native TypeScript)
 - **목적**: 일본 IT 기업(메이텍, 테크노프로 등) 취업용 기술 포트폴리오 및 실제 당뇨 자가 관리용
 
 ---

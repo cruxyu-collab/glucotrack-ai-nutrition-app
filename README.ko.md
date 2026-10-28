@@ -43,7 +43,7 @@ Mac이 없는 Windows PC 개발 환경에서 최신 기종인 iPhone 16e 실기�
 
 ## 🛠 기술 스택
 
-- **프레임워크**: React Native (Expo SDK 57)
+- **프레임워크**: React Native (Expo SDK 58)
 - **개발 언어**: TypeScript 5.0+
 - **로컬 데이터베이스**: `expo-sqlite` (완전 폐쇄형 관계형 DB)
 - **AI 엔진**: Google Gemini API (`gemini-3.8-flash` -> `gemini-flash-latest` 무지연 우회)

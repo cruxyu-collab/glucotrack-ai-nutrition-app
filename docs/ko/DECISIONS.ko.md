@@ -1,7 +1,7 @@
 # DECISIONS (실전 아키텍처 결정 및 개발 배경 기록)
 
 ## 001: Windows PC에서 iPhone 16e 실기기 무료 개발 경로 확립
-- **결정**: React Native (Expo SDK 57, TypeScript) 채택.
+- **결정**: React Native (Expo SDK 58, TypeScript) 채택.
 - **실전 배경**: Windows 환경에서 유료 개발자 계정 없이 무료로 최신 iPhone 16e 실기기에서 개발 루프를 완성함.
 
 ## 002: 순수 PWA 대신 React Native를 선택한 전략적 이유
