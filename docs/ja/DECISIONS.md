@@ -2,8 +2,8 @@
 
 ---
 
-## ADR-001: モバイルネイティブ指向フレームワーク (Expo SDK 57 / React Native)
-- **選定技術**: React Native (Expo SDK 57, TypeScript)
+## ADR-001: モバイルネイティブ指向フレームワーク (Expo SDK 58 / React Native)
+- **選定技術**: React Native (Expo SDK 58, TypeScript)
 - **決定理由**: トンネル通信を活用した迅速な実機動作検証環境の構築と、将来的なネイティブヘルスケア連携(HealthKit等)への拡張性を担保。
 
 ---
